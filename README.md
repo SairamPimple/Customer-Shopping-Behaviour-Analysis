@@ -5,7 +5,7 @@
 <!-- PLACEHOLDER: replace with the updated Tableau screenshot after the polish edits -->
 ![Customer Behaviour Dashboard](images/Dashboard.png)
 
-**Live dashboard:** [Customer Shopping Behaviour Analysis](https://public.tableau.com:9443/views/CustomerShoppingBehaviourDashboard_17952699805870/CustomerBehaviourDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Live dashboard:** [Customer Shopping Behaviour Analysis](https://public.tableau.com/app/profile/sairam.pimple003/viz/CustomerShoppingBehaviourDashboard_17952748241120/CustomerBehaviorDashboard)
 
 ![Python](https://img.shields.io/badge/Python-pandas%20%7C%20SciPy%20%7C%20seaborn-blue)
 ![SQL](https://img.shields.io/badge/PostgreSQL-18%20queries-336791)
